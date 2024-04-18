@@ -33,7 +33,7 @@ const App = () => {
         setUser({});
       }
     };
-    fetchUser();
+    fetchUser(); 
   }, [isAuthenticated]);
 
  
